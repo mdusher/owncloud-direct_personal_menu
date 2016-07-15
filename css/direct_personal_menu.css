@@ -1,0 +1,30 @@
+@media only screen and (min-width: 1200px) {
+  #header #expand {
+    display: none;
+  }
+  #header #expand img[src="/core/img/actions/caret.svg"] {
+    display: none;
+  }
+  #expandDisplayName {
+    display: none;
+  }
+  #settings #expanddiv ul li a {
+    min-width: 1rem;
+    font-size: 12px;
+    padding-top: 7px;
+    height: 45px;
+  }
+  #expanddiv {
+    display: inline-block !important;
+    position: relative;
+    top: auto;
+    right: auto;
+    background-color: #121212;
+    box-shadow: initial;
+  }
+  #expanddiv ul li {
+    display: block;
+    float: left;
+  }
+}
+

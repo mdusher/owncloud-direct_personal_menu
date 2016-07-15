@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<info>
+    <id>direct_personal_menu</id>
+    <name>Direct Personal Menu</name>
+    <description>Provide easy access to all the options in ther personal menu.</description>
+    <version>0.1.0</version>
+    <author>Michael Usher</author>
+    <dependencies>
+        <owncloud min-version="8.0" max-version="9.1" />
+    </dependencies>
+    <repository type="git">https://github.com/mdusher/owncloud-direct_personal_menu.git</repository>
+</info>
+
